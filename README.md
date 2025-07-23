@@ -8,3 +8,5 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## Assembler
+- [NASM](https://github.com/netwide-assembler/nasm) - A cross-platform [x86 assembler](https://www.nasm.us/) with an Intel-like syntax.
