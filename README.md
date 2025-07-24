@@ -1,4 +1,4 @@
-# Awesome Assembly Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Assembly](https://en.wikipedia.org/wiki/Assembly_language) [Programming](https://en.wikipedia.org/wiki/X86_assembly_language) [Language](https://en.wikipedia.org/wiki/X86_instruction_listings) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
