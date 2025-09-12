@@ -13,7 +13,15 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## Assembler
+## 📖 Contents
+- [Assembler](#assembler)
+- [IDE](#ide-integrated-development-environment)
+- [Installation](#installation)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors) 
+
+## [Assembler](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 - [NASM](https://github.com/netwide-assembler/nasm) - A cross-platform [x86 assembler](https://www.nasm.us/) with an Intel-like syntax.
 
 ## IDE (_Integrated Development Environment_)
@@ -25,3 +33,19 @@
 ##
 ### Installation
 You can access the installation steps in [here](https://github.com/cybersecurity-dev/Assembly-Toolkit?tab=readme-ov-file#installation)
+
+
+##
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-assembly-programming-language/graphs/contributors)!
+
+[🔼 Back to top](#awesome-assembly-programming-language-)
+
