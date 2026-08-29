@@ -10,6 +10,12 @@
 
 ### `OF` : Overflow Flag
 
+## Control Flags
+
+### `DF` : Direction Flag
+
+## System Flags
+
 ### `IF` : Interrupt Enable Flag
 
-## Feature Flags
+## `TF` : Trap Flag
