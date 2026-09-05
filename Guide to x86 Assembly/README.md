@@ -1,9 +1,11 @@
-# x86 
+# Guide to x86 Assembly 
+
+## x86 Assembly Instruction Classification
 
 ```mermaid
-flowchart TD
+flowchart LR
 
-    IA[32-bit x86 Instructions]
+    IA[Intel/AMD Instructions]
 
     IA --> DT[Data Transfer]
     IA --> AR[Arithmetic]
@@ -80,4 +82,9 @@ flowchart TD
     style AR fill:#6aa84f,stroke:#38761d,color:#ffffff
     style LG fill:#674ea7,stroke:#351c75,color:#ffffff
     style CF fill:#990000,stroke:#660000,color:#ffffff
+    style BO fill:#990000,stroke:#660000,color:#ffffff
+    style ST fill:#e69138,stroke:#b45f06,color:#ffffff
+    style FL fill:#674ea7,stroke:#351c75,color:#ffffff
+    style SY fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style STR fill:#0b5394,stroke:#073763,color:#ffffff
 ```
