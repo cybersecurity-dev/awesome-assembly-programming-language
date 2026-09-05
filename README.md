@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
         <a href="https://wikipedia.org/wiki/Assembly_language">
-          <img width="13%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/ASM.svg" />
+          <img width="25%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/ASM.svg" />
         </a>
     </p>
 
@@ -14,12 +14,88 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+mindmap
+  root((Intel Assembly Instructions))
+
+    Data Transfer
+      MOV
+      XCHG
+      PUSH
+      POP
+      LEA
+
+    Arithmetic
+      ADD
+      SUB
+      MUL
+      IMUL
+      DIV
+      IDIV
+      INC
+      DEC
+
+    Logical
+      AND
+      OR
+      XOR
+      NOT
+      TEST
+
+    Control Flow
+      JMP
+      CALL
+      RET
+      LOOP
+
+    Conditional Jumps
+      JE
+      JNE
+      JG
+      JL
+      JGE
+      JLE
+
+    String Operations
+      MOVSB
+      MOVSW
+      CMPSB
+      SCASB
+      STOSB
+
+    Bit Operations
+      SHL
+      SHR
+      SAR
+      ROL
+      ROR
+
+    Flags
+      CMP
+      TEST
+      CLC
+      STC
+      LAHF
+      SAHF
+
+    System
+      INT
+      SYSCALL
+      SYSENTER
+      CPUID
+
+    SIMD
+      SSE
+      AVX
+      AVX2
+      AVX512
+```
 ## 📖 Contents
 - [Assembler](#assembler)
 - [IDE](#ide-integrated-development-environment)
